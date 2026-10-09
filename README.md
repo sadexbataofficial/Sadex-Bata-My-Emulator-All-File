@@ -1,1 +1,1 @@
-# Sadex-Bata-My-Emulator-All-File
+# Sadex Beta - Non-VT Android Emulator Project Files
