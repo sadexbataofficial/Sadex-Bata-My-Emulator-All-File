@@ -1,0 +1,7 @@
+{
+  "project_name": "Sadex Beta",
+  "version": "1.0.0",
+  "vt_required": false,
+  "multi_instance": true,
+  "supported_versions": ["Android 7 (32-bit)", "Android 7 (64-bit)", "Android 9", "Android 11", "Android 15"]
+}

@@ -1,0 +1,9 @@
+{
+    "WASD": "Joystick Movement",
+    "LCLICK": "Fire / Shoot",
+    "RCLICK": "Aim Lock / Scope",
+    "SHIFT": "Sprint",
+    "SPACE": "Jump",
+    "C": "Crouch",
+    "R": "Reload"
+}
