@@ -1,1 +1,0 @@
-# Sadex Beta - Non-VT Android Emulator Project Files
